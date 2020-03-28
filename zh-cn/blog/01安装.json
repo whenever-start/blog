@@ -1,0 +1,6 @@
+{
+  "filename": "01安装.md",
+  "__html": "<h1>安装</h1>\n<h2>兼容性</h2>\n<hr>\n<p>Vue 不支持 IE8 及以下版本，因为 Vue 使用了 IE8 无法模拟的 ECMAScript 5 特性。但它支持所有兼容 ECMAScript 5 的浏览器。</p>\n<h2>Vue Devtools</h2>\n<hr>\n<p>在使用 Vue 时，我们推荐在你的浏览器上安装 Vue Devtools。它允许你在一个更友好的界面中审查和调试 Vue 应用。\n<a href=\"https://github.com/vuejs/vue-devtools#vue-devtools\">chrome插件</a>\n安装后,在 <code>F12</code> 下找到 <code>vue</code> 选项\n<img src=\"http://ww1.sinaimg.cn/mw690/006EgRKPgy1g24ooa53pkj30g60410st.jpg\" alt=\"图片\"></p>\n<h2>直接用 <code>script</code> 引入</h2>\n<hr>\n<pre><code class=\"language-html\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">script</span> <span class=\"hljs-attr\">src</span>=<span class=\"hljs-string\">\"https://cdn.jsdelivr.net/npm/vue\"</span>&gt;</span><span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">script</span>&gt;</span>\n</code></pre>\n<h2>NPM</h2>\n<hr>\n<pre><code class=\"language-shell\">npm install vue\n</code></pre>\n<h2>Vue Cli</h2>\n<hr>\n<p><a href=\"https://github.com/vuejs/vue-cli\">github地址</a>\n<a href=\"https://cli.vuejs.org/zh/\">官方地址</a></p>\n",
+  "link": "\\zh-cn\\blog\\01安装.html",
+  "meta": {}
+}
